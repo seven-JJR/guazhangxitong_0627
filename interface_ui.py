@@ -2722,7 +2722,7 @@ class interface_ui_window(object):
 "background-color: rgb(18, 24, 67);")
         self.label_653.setObjectName("label_653")
         self.label_871 = QtWidgets.QLabel(self.page_3)
-        self.label_871.setGeometry(QtCore.QRect(475, 410, 16, 21))
+        self.label_871.setGeometry(QtCore.QRect(475, 410, 22, 21))
         font = QtGui.QFont()
         font.setPointSize(8)
         self.label_871.setFont(font)
